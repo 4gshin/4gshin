@@ -11,7 +11,7 @@
 - 🎓 Student at **Ostim Technical University**
 - 💻 Currently working on my personal website: [agshin.xyz](https://agshin.xyz)
 - 🌱 Learning web development and Python automation
-- ☕ Coffee keeps me running
+- ☕ I'm powered by cars and coffee.
 - 📍 Based in Ankara, from Baku 🇦🇿
 
 ---
@@ -19,7 +19,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agshinzada&show_icons=true&theme=tokyonight" alt="Agshin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=4gshin&show_icons=true&theme=tokyonight" alt="Agshin's GitHub Stats" />
 </p>
 
 ---
@@ -33,8 +33,7 @@
 
 ### ⚡ Fun Fact
 
-I break stuff just to fix it again – that’s how I learn 😄
-
+My code works... until someone watches me. 😄
 
 
 <!--
