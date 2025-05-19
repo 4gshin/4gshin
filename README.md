@@ -9,8 +9,8 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Student at **Ostim Technical University**
-- 💻 Currently working on my personal website: [agshin.xyz](https://agshin.xyz)
-- 🌱 Learning web development and Python automation
+- 💻 Currently building [agshin.xyz](https://agshin.xyz) — stay tuned!: 
+- 🌱 Leveling up in web, software, and Python development
 - ☕ I'm powered by cars and coffee.
 - 📍 Based in Ankara, from Baku 🇦🇿
 
