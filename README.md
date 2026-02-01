@@ -8,11 +8,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Student at **Ostim Technical University**
-- 💻 Currently building [agshin.xyz](https://agshin.xyz) — stay tuned!: 
-- 🌱 Leveling up in web, software, and Python development
-- ☕ I'm powered by cars and coffee.
-- 📍 Based in Ankara, from Baku 🇦🇿
+- 🎓 Software Engineering student at **Ostim Technical University**
+- 💻 Interested in web & software development
+- 🌱 Constantly improving my programming skills
+- ☕ Fueled by cars and coffee
+- 📍 Based in Ankara, originally from Baku 🇦🇿
 
 ---
 
@@ -26,14 +26,15 @@
 
 ### 🌐 Connect With Me
 
-- 💼 Portfolio: [agshin.xyz](https://agshin.xyz)
+- 💼 Website: [agshin.xyz](https://agshin.xyz)
 - 📸 Instagram: [4gshin](https://instagram.com/4gshin)
 
 ---
 
 ### ⚡ Fun Fact
 
-My code works... until someone watches me. 😄
+My code works… until someone watches me. 😄
+
 
 
 <!--
