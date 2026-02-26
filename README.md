@@ -1,53 +1,50 @@
-<h1 align="center">Hi there, I'm Agshin 👋</h1>
+<h1 align="center">Hi, I'm Agshin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Part-time+engineer,+full-time+learner;Loves+minimal+designs+%26+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Engineering+student;Backend+focused,+React+learner;Building+clean+and+useful+projects" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 Software Engineering student at **Ostim Technical University**
-- 💻 Interested in web & software development
-- 🌱 Constantly improving my programming skills
-- ☕ Fueled by cars and coffee
-- 📍 Based in Ankara, originally from Baku 🇦🇿
+- 🎓 Software Engineering student at **OSTİM Technical University**
+- ⚙️ Currently learning **Backend Development**
+- 🧠 Building projects to improve real-world skills
+- 📍 Based in Ankara originally from  Baku 🇦🇿
 
 ---
 
-### 📈 GitHub Stats
+### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4gshin&show_icons=true&theme=tokyonight" alt="Agshin's GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,sqlite,html,css,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=4gshin&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="165" src="https://streak-stats.demolab.com?user=4gshin&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 
-- 💼 Website: [agshin.xyz](https://agshin.xyz)
-- 📸 Instagram: [4gshin](https://instagram.com/4gshin)
+<p align="center">
+  <a href="https://agshin.xyz">
+    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/4gshin">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### ⚡ Fun Fact
 
-My code works… until someone watches me. 😄
-
-
-
-<!--
-**4gshin/4gshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> My code works perfectly… until someone watches. ☕
