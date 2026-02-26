@@ -38,4 +38,4 @@
 
 ### ⚡ Fun Fact
 
-> My code works perfectly… until someone watches. ☕
+> My code works perfectly until someone watches...
