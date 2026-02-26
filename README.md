@@ -23,12 +23,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=4gshin&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-  <img height="165" src="https://streak-stats.demolab.com?user=4gshin&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
 
 ---
 
