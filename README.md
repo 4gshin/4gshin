@@ -21,6 +21,7 @@
   <img src="https://skillicons.dev/icons?i=js,nodejs,react,sqlite,html,css,git,github,vscode" />
 </p>
 
+---
 
 ### 🌐 Connect With Me
 
