@@ -1,44 +1,13 @@
-<h1 align="center">Hi, I'm Agshin 👋</h1>
+hey, i'm **Agshin**👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full-stack+Developer;Focusing+on+Clean+Code" />
-</p>
+originally from baku, currently in ankara.
 
----
+i'm studying software engineering at ostimtech. most of what you'll find here started either as something i needed or something i was curious about, and a good part of it is still a work in progress.
 
-### 🧑‍💻 About Me
+still learning, still building, still going in circles. the good kind.
 
-- 🎓 Studying Software Engineering at **OSTİM Technical University**.
-- ⚙️ Building full-stack projects using **Node.js**, **Express**, and **React**.
-- 🔐 Interested in backend security and system-level modifications.
-- 📍 Based in Ankara, originally from Baku 🇦🇿.
+agshin.xyz · linkedin · instagram
 
----
+<br>
 
-### 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mysql,mongodb,html,css,git,github,vscode,render" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://agshin.xyz">
-    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/4gshin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/4gshin">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### ⚡ Fun Fact
-
-> My code works perfectly until someone watches...
+<a href="https://user-badge.committers.top/azerbaijan/4gshin"><img src="https://user-badge.committers.top/azerbaijan/4gshin.svg" alt="committers.top badge"></a>
