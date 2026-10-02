@@ -10,4 +10,3 @@ still learning, still building, still going in circles. the good kind.
 
 <br>
 
-<a href="https://user-badge.committers.top/azerbaijan/4gshin"><img src="https://user-badge.committers.top/azerbaijan/4gshin.svg" alt="committers.top badge"></a>
